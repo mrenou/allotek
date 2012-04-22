@@ -1,0 +1,69 @@
+/*
+ * common
+ */
+
+body {
+    font-size: 16px;
+    background-color: #e6e6e6;
+}
+
+/*
+ * navbar
+ */
+
+.navbar {
+    border-bottom: 8px solid #4c68cb;
+    background-color: #222222;
+}
+
+.navbar .nav {
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+    margin-top: 5px;
+}
+
+.navbar-inner {
+    height: 70px;
+    background-color: #222222;
+}
+
+/*
+ * index
+ */
+
+.skill_block {
+    -moz-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    border-right: 2px solid #4c68cb;
+    border-bottom: 2px solid #4c68cb;
+    padding: 5px;
+    height: 200px
+}
+
+.skill_block h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: #4c68cb;
+}
+
+.presentation {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.presentation h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 42px;
+    line-height:1.2;
+    color: #222222;
+    text-align: center;
+}
+
+.phone {
+    color: #222222;
+    line-height:1.2;
+    font-family: 'Economica', sans-serif;
+    font-size: 45px;
+    font-weight:bold;
+    text-align: center;
+}

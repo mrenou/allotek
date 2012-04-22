@@ -76,3 +76,23 @@ body {
     font-weight:bold;
     text-align: center;
 }
+
+.var_img {
+    height: 200px;
+    margin: 0 auto;
+}
+
+.partner_block {
+    margin-top: 30px;
+}
+
+.partner_block h1 {
+    font-size: 12px;
+    vertical-align: top;
+    text-align: right;
+}
+
+.partner_block img {
+    width: 75px;
+    margin: 0 auto;
+}
